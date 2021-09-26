@@ -21,8 +21,16 @@ A Continuación voy a puntuar las asignaturas de 1r de SMX segun mis gustos.
 | Formació i orientació laboral | Sònia Martínez  | 7 |
 | Anglès      | Antonia Macias      | 6 |
 
-# Despedida 
+### Mi mejor obra de arte
+```
+Como previamente he dicho que me gusta hacer fotografias a continuacion os dejo para mi, mi mejor obra de arte.
+```
+![alt text](https://github.com/hammad2003/Introduccion/blob/main/Fotos/WhatsApp%20Image%202021-09-26%20at%2019.12.29.jpeg "📷")
 
+### Despedida 
+```
+Espero que os alla gustado mi " Presentacio "
+```
 <a href="https://www.youtube.com/watch?v=KEsMNYlc0YU
 " target="_blank"><img src="https://github.com/hammad2003/Introduccion/blob/main/Fotos/1.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
