@@ -10,13 +10,14 @@
 
 ### Asignaturas Preferidas 
 
-| Asignaturas   | Profesores    | Puntiacio / 10  |
+| Asignaturas   | Professorat    | Puntiacio / 10  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-| zebra stripes | are neat      |    $1 |
-| zebra stripes | are neat      |    $1 |
+| Muntatge i manteniment d'equips      | right-aligned | $1600 |
+| Sistemes operatius monolloc      | centered      |   $12 |
+| Aplicacions ofimàtiques | are neat      |    $1 |
+| Xarxes locals | are neat      |    $1 |
+| Formació i orientació laboral | are neat      |    $1 |
+| Anglès      | centered      |   $12 |
 
 # Despedida 
 
