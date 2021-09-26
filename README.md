@@ -8,16 +8,18 @@
 🌱 Actualmente estoy estudiando un grado medio de informatica en el Ins Puig Castellar.
 ```
 
-### Asignaturas Preferidas 
-
+### Asignaturas Preferidas de SMX 1
+```
+A Continuación voy a puntuar las asignaturas de 1r de SMX segun mis gustos.
+```
 | Asignaturas   | Professorat    | Puntiacio / 10  |
 | ------------- |:-------------:| -----:|
-| Muntatge i manteniment d'equips      | right-aligned | $1600 |
-| Sistemes operatius monolloc      | centered      |   $12 |
-| Aplicacions ofimàtiques | are neat      |    $1 |
-| Xarxes locals | are neat      |    $1 |
-| Formació i orientació laboral | are neat      |    $1 |
-| Anglès      | centered      |   $12 |
+| Muntatge i manteniment d'equips      | Jorge Monserrat | 8 |
+| Sistemes operatius monolloc      | Josep Manel Cos  | 8 |
+| Aplicacions ofimàtiques | Caridad Castillo  | 9 |
+| Xarxes locals | Juan Morote |    10 |
+| Formació i orientació laboral | Sònia Martínez  | 7 |
+| Anglès      | Antonia Macias      | 6 |
 
 # Despedida 
 
